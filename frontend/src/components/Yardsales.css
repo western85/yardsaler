@@ -1,0 +1,7 @@
+.delButton {
+  border-radius: 5px;
+  max-height: 30px;
+  font-size: 10px;
+  font-weight: 700;
+  margin: 0 5px;
+}
